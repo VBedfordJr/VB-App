@@ -20,7 +20,7 @@ struct ContentView: View {
         }
     }
 }
-
+//Comment
 // MARK: - Academics View
 
 struct AcademicsView: View {
